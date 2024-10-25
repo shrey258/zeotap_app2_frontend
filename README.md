@@ -1,21 +1,25 @@
-# Weather Monitor
+# Weather Monitor Frontend
 
 ## Overview
-Weather Monitor is a React-based web application that provides real-time weather information for multiple cities. It offers a user-friendly interface to view current weather conditions, historical data, and weather alerts.
+Weather Monitor is a React-based web application that provides real-time weather information for major Indian cities. It offers a user-friendly interface to view current weather conditions, historical data, and weather alerts.
 
 ## Features
-- Real-time weather data for multiple cities
+- Real-time weather data for major Indian cities (Delhi, Mumbai, Chennai, Bangalore, Kolkata, Hyderabad)
 - Weather summary with temperature trends
 - Detailed city-wise weather information
 - Historical weather data access
-- Weather alerts and notifications
+- Daily weather summaries
 - Dark/Light mode toggle
 
 ## Technologies Used
 - React
 - Material-UI
 - React Router
-- [Any other major libraries or APIs you're using]
+- Axios for API calls
+
+## Backend Repository
+The backend for this application is available at:
+[https://github.com/shrey258/zeotap_app2_backend](https://github.com/shrey258/zeotap_app2_backend)
 
 ## Getting Started
 
@@ -28,7 +32,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/weather-monitor.git
+   git clone https://github.com/shrey258/zeotap_app2_frontend.git
    ```
 2. Navigate to the project directory:
    ```
@@ -67,10 +71,10 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## Usage
-- The main dashboard displays weather summaries for all monitored cities.
-- Click on "Historical Data" to view past weather information.
-- Use the theme toggle in the top right corner to switch between light and dark modes.
-- [Add any other specific usage instructions]
+- The main dashboard displays weather summaries for all monitored Indian cities.
+- Click on a city to view detailed weather information.
+- Access "Historical Data" to view past weather information.
+- Use the theme toggle to switch between light and dark modes.
 
 ## Learn More
 
@@ -87,9 +91,11 @@ Contributions to improve Weather Monitor are welcome. Please follow these steps:
 5. Open a Pull Request
 
 ## License
-[Specify your license here, e.g., MIT License]
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-Your Name - [your-email@example.com]
+Shrey - [hardikshrey123@gmail.com]
 
-Project Link: [https://github.com/your-username/weather-monitor](https://github.com/your-username/weather-monitor)
+Project Link: [https://github.com/shrey258/zeotap_app2_frontend](https://github.com/shrey258/zeotap_app2_frontend)
+
+Backend Repository: [https://github.com/shrey258/zeotap_app2_backend](https://github.com/shrey258/zeotap_app2_backend)
