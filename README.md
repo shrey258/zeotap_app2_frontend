@@ -36,7 +36,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
    ```
 2. Navigate to the project directory:
    ```
-   cd weather-monitor
+   cd zeotap_app2_frontend
    ```
 3. Install dependencies:
    ```
